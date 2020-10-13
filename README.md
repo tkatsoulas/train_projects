@@ -1,1 +1,1 @@
-# train_projects
+Implementing training projects from ideas.
